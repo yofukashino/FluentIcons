@@ -1,11 +1,35 @@
-# Replugged theme template
+### FluentStatusIcons
 
-See the [theme development guide](https://guide.replugged.dev/docs/themes/getting-started) for more
-information on using this template.
+Icon pack for Replugged using Microsoft's Fluent Icons.
 
-# License
+Port from powercord, original by Stickfab. 
 
-The [theme template](https://github.com/replugged-org/theme-template) is licensed under the
-[MIT](https://opensource.org/license/mit/) license. However, addons using this template are not
-necessarily licensed under MIT. Developers are encouraged to add a license file to their repository,
-but if none exists, the repository should be considered as unlicensed.
+For fluent status icons, install [this plugin](https://replugged.dev/install?identifier=dev.YofukashiNo.FluentIcons).
+
+Direct Download Link: [dev.YofukashiNo.FluentIcons.asar](https://github.com/YofukashiNo/FluentIcons/releases/latest/download/dev.YofukashiNo.FluentIcons.asar)
+
+Install Link:
+
+
+[![Install in Replugged](https://img.shields.io/badge/-Install%20in%20Replugged-blue?style=for-the-badge&logo=none)](https://replugged.dev/install?identifier=YofukashiNo/FluentIcons&source=github)
+
+![GenericName](https://i.imgur.com/hLCUDCO.gif)
+
+> ## Disclaimer
+>
+> This Plugin isn't offically supported by replugged.
+>
+>**DO NOT ASK IN REPLUGGED SERVER FOR SUPPORT RELATED TO THIS PLUGIN.**
+>
+> For issues related to plugin either DM the dev or ask in support server listed below.
+>
+>
+> [![Support Server](https://discordapp.com/api/guilds/919649417005506600/widget.png?style=banner3)](https://discord.gg/SgKSKyh9gY)
+
+
+
+
+
+> For Contributing: [Make a pr thats all.]
+
+
