@@ -1,7 +1,7 @@
 {
-  "name": "theme-template",
+  "name": "fluent-icons",
   "version": "1.0.0",
-  "description": "A theme template",
+  "description": "Icon pack for Replugged using Microsoft's Fluent Icons.",
   "engines": {
     "node": ">=20.0.0",
     "pnpm": ">=8.0.0"
@@ -20,6 +20,6 @@
   "devDependencies": {
     "@types/node": "^20.11.0",
     "prettier": "^3.2.2",
-    "replugged": "^4.7.7"
+    "replugged": "file:\\D:\\Projects\\Replugged Themes\\customBuild"
   }
 }
