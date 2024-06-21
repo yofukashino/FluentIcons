@@ -25,6 +25,12 @@
 
 /*Video*/
 [class^="panels_"] [class^="container_"]>[class^="actionButtons_"]>[class*="fullWidth_"]:first-child [class^="lottieIcon_"] {
+  -webkit-mask: url("../assets/20x20/video off.svg") center;
+  mask: url("../assets/20x20/video off.svg") center;
+}
+
+/*Video End*/
+[class^="panels_"] [class^="container_"]>[class^="actionButtons_"]>[class*="fullWidth_"]:first-child[class*="buttonActive_"] [class^="lottieIcon_"] {
   -webkit-mask: url("../assets/20x20/video.svg") center;
   mask: url("../assets/20x20/video.svg") center;
 }
