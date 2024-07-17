@@ -5,16 +5,16 @@
   "author": {
     "name": "Nanakusa",
     "discordID": "1121961711080050780",
-    "github": "YofukashiNo"
+    "github": "yofukashino"
   },
   "version": "1.0.0",
   "updater": {
-    "type": "github",
-    "id": "YofukashiNo/FluentIcons"
+    "type": "store",
+    "id": "dev.YofukashiNo.FluentIcons"
   },
   "license": "MIT",
   "type": "replugged-theme",
   "main": "src/main.css",
-  "source": "https://github.com/YofukashiNo/FluentIcons",
+  "source": "https://github.com/yofukashino/FluentIcons",
   "image": ["https://i.imgur.com/XLLrtsH.png"]
 }
