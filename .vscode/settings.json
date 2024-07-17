@@ -3,6 +3,6 @@
   "editor.formatOnSave": true,
   "css.lint.unknownProperties": "ignore",
   "[css]": {
-    "editor.defaultFormatter": "michelemelluso.code-beautifier"
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
 }
