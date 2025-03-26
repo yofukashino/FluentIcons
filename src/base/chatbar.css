@@ -20,7 +20,7 @@
 }
 
 /*Gif*/
-.expression-picker-chat-input-button:is(:nth-last-child(3), :nth-last-child(4))
+.expression-picker-chat-input-button
   [class*="button_"]:not([class*="stickerButton_"])
   > [class^="buttonWrapper_"] {
   -webkit-mask: url("../assets/24x24/gif.svg") no-repeat center/24px !important;
@@ -31,6 +31,15 @@
 [class*="stickerButton_"] > [class*="buttonWrapper_"] {
   -webkit-mask: url("../assets/24x24/sticker.svg") no-repeat center/24px !important;
   mask: url("../assets/24x24/sticker.svg") no-repeat center/24px !important;
+}
+
+/*App Launcher*/
+[class^="channelAppLauncher_"] > div > button > div svg {
+  clip-path: unset !important;
+}
+[class^="channelAppLauncher_"] > div > button > div {
+  -webkit-mask: url("../assets/24x24/apps.svg") no-repeat center/24px !important;
+  mask: url("../assets/24x24/apps.svg") no-repeat center/24px !important;
 }
 
 /* NON LOTTIE ICONS */
